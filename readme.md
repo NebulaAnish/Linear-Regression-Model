@@ -1,1 +1,1 @@
-linear Regression Model implementation using NumPy array
+linear Regression Model implementation using NumPy array.
